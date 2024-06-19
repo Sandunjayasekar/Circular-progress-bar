@@ -66,6 +66,6 @@ svg {
 
 @keyframes progress {
     100% {
-        stroke-dashoffset: 0;
+        stroke-dashoffset: 165;
     }
 }
